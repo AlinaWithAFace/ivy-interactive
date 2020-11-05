@@ -1,1 +1,1 @@
-![box.jpg](box.jpg)
+![Box.jpg](Box.jpg)
